@@ -5,12 +5,12 @@
 
 
 ### install yahoo-finance (in command line)
+cd C:\Python\Python36-32\Scripts\
 python -m pip install yahoo-finance
 
 ### in python:
 from yahoo_finance import Share
 yahoo.refresh()
-
 
 ### get the list of stocks in the US exchange market:
 # NYSE
