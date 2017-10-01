@@ -7,6 +7,7 @@
 ### install yahoo-finance (in command line)
 cd C:\Python\Python36-32\Scripts\
 python -m pip install yahoo-finance
+pip install pandas-datareader
 
 ### in python:
 from yahoo_finance import Share
